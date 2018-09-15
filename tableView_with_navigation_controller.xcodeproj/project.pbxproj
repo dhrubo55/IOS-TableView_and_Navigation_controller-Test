@@ -15,6 +15,7 @@
 		7BE27133214CB86A00EAEE55 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE27132214CB86A00EAEE55 /* main.m */; };
 		7BE2713D214CB86A00EAEE55 /* tableView_with_navigation_controllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE2713C214CB86A00EAEE55 /* tableView_with_navigation_controllerTests.m */; };
 		7BE27148214CB86A00EAEE55 /* tableView_with_navigation_controllerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE27147214CB86A00EAEE55 /* tableView_with_navigation_controllerUITests.m */; };
+		7BE2715A214CCD0C00EAEE55 /* AnimeName_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE27159214CCD0C00EAEE55 /* AnimeName_ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		7BE27143214CB86A00EAEE55 /* tableView_with_navigation_controllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tableView_with_navigation_controllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BE27147214CB86A00EAEE55 /* tableView_with_navigation_controllerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tableView_with_navigation_controllerUITests.m; sourceTree = "<group>"; };
 		7BE27149214CB86A00EAEE55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BE27158214CCD0C00EAEE55 /* AnimeName_ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimeName_ViewController.h; sourceTree = "<group>"; };
+		7BE27159214CCD0C00EAEE55 /* AnimeName_ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimeName_ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				7BE2712E214CB86A00EAEE55 /* LaunchScreen.storyboard */,
 				7BE27131214CB86A00EAEE55 /* Info.plist */,
 				7BE27132214CB86A00EAEE55 /* main.m */,
+				7BE27158214CCD0C00EAEE55 /* AnimeName_ViewController.h */,
+				7BE27159214CCD0C00EAEE55 /* AnimeName_ViewController.m */,
 			);
 			path = tableView_with_navigation_controller;
 			sourceTree = "<group>";
@@ -264,6 +269,7 @@
 			files = (
 				7BE27128214CB86800EAEE55 /* ViewController.m in Sources */,
 				7BE27133214CB86A00EAEE55 /* main.m in Sources */,
+				7BE2715A214CCD0C00EAEE55 /* AnimeName_ViewController.m in Sources */,
 				7BE27125214CB86800EAEE55 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

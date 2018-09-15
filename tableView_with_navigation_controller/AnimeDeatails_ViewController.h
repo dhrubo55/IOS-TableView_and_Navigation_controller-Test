@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AnimeDeatails_ViewController.h
 //  tableView_with_navigation_controller
 //
 //  Created by mac-lab on 9/15/18.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController<UITableViewDelegate, UITableViewDataSource>
 
+
+@interface AnimeDeatails_ViewController : UIViewController
 
 @end
-
